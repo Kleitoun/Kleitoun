@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kleitoun
-- 👀 I’m interested in Machine Learning, Algorithmic Trading and the application of new technologies for natural resources management
+- 👀 I’m interested in Machine Learning, Algorithmic Trading and the application of new technologies to natural resources management
 - 🌱 I’m currently learning Bioresource Engineering and Computer Science
 
 <!---
