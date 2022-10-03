@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kleitoun
-- 👀 I’m interested in Machine Learning, Algorithmic Trading and the application of new technologies to natural resources management as well as the financial market.
+- 👀 I’m interested in Machine Learning and Deep Learning and their application in Natural Language Understanding, Algorithmic Trading and the application of new technologies to natural resources management as well as the financial market.
 - 🌱 I’m currently studying Computer Science at Université de Montréal. I obtained my bachelor degree in Engineering from McGill University in May 2021.
 
 <!---
