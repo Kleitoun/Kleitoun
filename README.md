@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kleitoun.
+- 👋 Hi, I’m Mahdi.
 - 👀 I’m interested in Machine Learning and Deep Learning and their application in Natural Language Understanding, Algorithmic Trading and AI for Good in general.
 - 🌱 I’m currently studying Computer Science at Université de Montréal as part of MILA. I obtained my bachelor degree in Engineering from McGill University in May 2021.
 
