@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mahdi.
 - 👀 I’m interested in Machine Learning and Deep Learning and their application in various and AI for Good in general.
-- 💻 I'm currently interning at Uwear.ai, a Montréal-based startup where I'm working on Multi-modal models as well as Reinforcement Learning. I build different models deriving solutions from different papers with and without their original codebase.
+- 💻 I'm currently interning at Uwear.ai, a Montréal-based startup where I'm working on Multi-modal models as well as Reinforcement Learning for GenerativeAI. I build different models deriving solutions from different papers with and without their original codebase.
 - 🌱 I’m currently studying Machine Learning at Université de Montréal as part of MILA. I obtained my bachelor degree in Engineering from McGill University in May 2021.
